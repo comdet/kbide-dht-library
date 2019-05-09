@@ -7,7 +7,7 @@
   "author": "from github user beegee-tokyo | migrate by Comdet",
   "email": "comdet.p@gmail.com",
   "url": "https://github.com/comdet/kbide-dht-library/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": "arduino-esp32",
   "license": "MIT",

@@ -5,7 +5,7 @@ Blockly.JavaScript['dhtesp_setup'] = function(block) {
   var code = `
 #EXTINC#include "DHTesp.h"#END
 #VARIABLE DHTesp ${variable_instance};#END
-${variable_instance}.setup(${number_pin},dropdown_dht_type);
+${variable_instance}.setup(${number_pin},${dropdown_dht_type});
 `;
   return code;
 };
